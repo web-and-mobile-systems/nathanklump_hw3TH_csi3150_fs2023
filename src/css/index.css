@@ -1,0 +1,36 @@
+#hero {
+    background-image: url('../../public/images/mckinley-center.jpg');
+    background-size: cover; /* Adjust to "contain" if needed */
+    height: 100vh;
+}
+
+#section2 {
+    background-image: url('../../public/images/burned-bed.jpg');
+    background-size: cover; /* Adjust to "contain" if needed */
+    height: 100vh;
+}
+
+#section3 {
+    background-image: url('../../public/images/flint-two-houses.jpg');
+    background-size: cover; /* Adjust to "contain" if needed */
+    height: 100vh;
+}
+
+#section4 {
+    background-image: url('../../public/images/mist-city.jpg');
+    background-size: cover; /* Adjust to "contain" if needed */
+    height: 100vh;
+}
+
+#section5 {
+    background-image: url('../../public/images/flint-at-night.jpg');
+    background-size: cover; /* Adjust to "contain" if needed */
+    height: 100vh;
+}
+
+#section6 {
+    background-image: url('../../public/images/flint-city-picture.jpg');
+    background-size: cover; /* Adjust to "contain" if needed */
+    height: 100vh;
+}
+
